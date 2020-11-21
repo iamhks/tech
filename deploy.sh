@@ -1,6 +1,6 @@
-#!/bin/zsh
+#!/bin/bash
 
-vared -p "Enter commit message: " -c message
+echo "Enter commit message: " read message
 
 printf "\e[33m\nBuilding project...\e[39m\n"
 hugo -d ../iamhks.github.io/tech
