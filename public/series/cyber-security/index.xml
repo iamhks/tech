@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyber Security on Technical Blog by SHER</title>
+    <link>https://www.iamhks.com/series/cyber-security/</link>
+    <description>Recent content in Cyber Security on Technical Blog by SHER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;b&gt;Author:&lt;/b&gt; &lt;a href=&#39;https://iamhks.com&#39;&gt;Hemant Kumar Singh (HKS)&lt;/a&gt;. </copyright>
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0530</lastBuildDate><atom:link href="https://www.iamhks.com/series/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://www.iamhks.com/post/first-post/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.iamhks.com/post/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
