@@ -1,0 +1,45 @@
+baseURL = "https://www.iamhks.com/"
+title = "Technical Blog by SHER"
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true 
+copyright = "<b>Author:</b> <a href='https://iamhks.com'>Hemant Kumar Singh (HKS)</a>. "
+description = "Blog on Computer Science"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":tada:"
+  # change this!
+  twitter = "siegerts"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "blog"
+  url = "post/"
+
+[[params.menu]]
+  name = "post series"
+  url = "series/"
+  
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+  
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
