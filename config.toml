@@ -6,7 +6,7 @@ googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true 
 copyright = "<b>Author:</b> <a href='https://iamhks.com'>Hemant Kumar Singh (HKS)</a>. "
 description = "Blog on Computer Science"
-
+publishDir = "docs"
 [taxonomies]
   category = "categories"
   series = "series"
