@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Blog by SHER</title>
-    <link>https://www.iamhks.com/</link>
+    <link>https://www.iamhks.com/tech/</link>
     <description>Recent content on Technical Blog by SHER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;b&gt;Author:&lt;/b&gt; &lt;a href=&#39;https://iamhks.com&#39;&gt;Hemant Kumar Singh (HKS)&lt;/a&gt;. </copyright>
-    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0530</lastBuildDate><atom:link href="https://www.iamhks.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0530</lastBuildDate><atom:link href="https://www.iamhks.com/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://www.iamhks.com/about/</link>
+      <link>https://www.iamhks.com/tech/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.iamhks.com/about/</guid>
+      <guid>https://www.iamhks.com/tech/about/</guid>
       <description>Hi! My name is Hemant Kumar Singh, I use SHER as my alias. I am a computer science major and this blog will be focused on everything computer science. Since, CS in itself is a vast topic, we&amp;rsquo;ll be starting with Cyber Security. There are 3 main categories, namely:
 (i) Cyber Security
 (ii) Random and
@@ -23,10 +23,10 @@ In case you find some error in the site/information or have sugegstions feel fre
     
     <item>
       <title>Re-First Post</title>
-      <link>https://www.iamhks.com/post/re-first-post/</link>
+      <link>https://www.iamhks.com/tech/post/re-first-post/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0530</pubDate>
       
-      <guid>https://www.iamhks.com/post/re-first-post/</guid>
+      <guid>https://www.iamhks.com/tech/post/re-first-post/</guid>
       <description></description>
     </item>
     

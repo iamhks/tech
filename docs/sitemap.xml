@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.iamhks.com/about/</loc>
+    <loc>https://www.iamhks.com/tech/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.iamhks.com/series/cyber-security/</loc>
+    <loc>https://www.iamhks.com/tech/series/cyber-security/</loc>
     <lastmod>2020-11-21T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.iamhks.com/post/</loc>
+    <loc>https://www.iamhks.com/tech/post/</loc>
     <lastmod>2020-11-21T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.iamhks.com/post/re-first-post/</loc>
+    <loc>https://www.iamhks.com/tech/post/re-first-post/</loc>
     <lastmod>2020-11-21T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.iamhks.com/series/</loc>
+    <loc>https://www.iamhks.com/tech/series/</loc>
     <lastmod>2020-11-21T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.iamhks.com/</loc>
+    <loc>https://www.iamhks.com/tech/</loc>
     <lastmod>2020-11-21T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.iamhks.com/categories/</loc>
+    <loc>https://www.iamhks.com/tech/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.iamhks.com/tags/</loc>
+    <loc>https://www.iamhks.com/tech/tags/</loc>
   </url>
   
 </urlset>

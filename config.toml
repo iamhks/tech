@@ -1,4 +1,4 @@
-baseURL = "https://www.iamhks.com/"
+baseURL = "https://www.iamhks.com/tech"
 title = "Technical Blog by SHER"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
